@@ -23,10 +23,13 @@
   "homepage": "https://github.com/Harrshaa/Superlab_Clone#readme",
   "devDependencies": {
     "parcel": "^2.10.0",
-    "process": "^0.11.10"
+    "postcss": "^8.4.31",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.3.3"
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.16.0"
   }
 }
